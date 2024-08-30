@@ -1,0 +1,14 @@
+.topBarContainer {
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 4.80rem;
+    display: flex;
+    /* justify-content: space-between; */
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid #E9E9E9;
+
+}
+
